@@ -112,3 +112,38 @@ if __name__ == '__main__':
     print(data1)
     print(data2)
     print(dup)
+...
+5) a) input
+3
+1 2
+2 2
+8 7
+2
+3 3
+2 9
+the output should be 
+{1:2,8:7,3:3}
+[[3,3],[2,9]]
+{2,[2,9]}
+but this is not the correct output.
+...
+5) c)
+test case 1:
+    4
+    1 2
+    3 3
+    4 9 
+    2
+    3 3
+    4 4 
+    test case 2:
+        4 
+        1 2
+        2 2
+        3 3
+        4 20
+        2
+        3 3
+        4 20 
+        ...
+        
